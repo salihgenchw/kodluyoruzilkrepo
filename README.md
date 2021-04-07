@@ -15,5 +15,5 @@ Projeyi cloneladiktan sonra Visual Studio Code programini aciniz.
 Terminal:  
 
 
-```cd kodluyoruzilkrepo  
-code . ```
+```cd kodluyoruzilkrepo```  
+```code . ```
