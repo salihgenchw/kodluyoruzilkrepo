@@ -2,7 +2,7 @@
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
 
-![Patika Logo](https://www.patika.dev/patikaLogo.png)
+![Patika Logo](https://www.patika.dev/patikaLogo.png =250x)
 
 ## Installation
 Oncelikle projeyi clonelayin.  
