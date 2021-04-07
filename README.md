@@ -2,7 +2,7 @@
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
 
-![Patika Logo](https://ibb.co/vHtFVYg)
+![Patika Logo](https://i.ibb.co/g3n2mVH/githuplogo.png)
 
 
 ## Installation
