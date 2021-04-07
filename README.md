@@ -21,9 +21,12 @@ code .
 ```  
 
 
+
 ## Contributing
 
-Pull requestler kabul edilir. Buyuk degisikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz//
+Pull requestler kabul edilir. Buyuk degisikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
+
+
 
 ## License 
 
