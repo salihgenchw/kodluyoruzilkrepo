@@ -1,0 +1,21 @@
+li {
+    text-transform: uppercase;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: rgb(32, 32, 32);
+}
+
+li:not(:first-child) {
+ margin-left: 1rem;
+}
+
+.sayfabasligi {
+    color: red;
+}
