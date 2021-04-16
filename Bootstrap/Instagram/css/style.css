@@ -1,3 +1,7 @@
+body {
+  background-color: #FAFAFA;
+}
+
 ::placeholder{
     text-align: center;
     font-size: 14px;
@@ -5,7 +9,7 @@
     background-position: 40%;
     background-size: 6%;
   }
-  
+
   input.empty {
       font-family: FontAwesome;
       font-style: normal;
@@ -34,6 +38,11 @@
     font-size: 12px;
     color: black;
   }
+
+  .rightpanel {
+    background-color: white;
+    border: 0;
+  }
   
   .rightpanellinks {
     text-decoration: none;
@@ -43,4 +52,20 @@
   .rightpanellinks:hover {
     text-decoration: none;
     color: lightgrey;
+  }
+
+  .navbar {
+    height: 54px;
+  }
+
+  .logo {
+    margin-left: 192px;
+  }
+
+  .middlearea {
+    max-height: 200px!important;
+  }
+
+  .card-header, .card-footer {
+    background-color: white;
   }
