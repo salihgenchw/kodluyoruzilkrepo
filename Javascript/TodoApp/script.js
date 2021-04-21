@@ -4,6 +4,8 @@ const taskList = document.querySelector("#task-list");
 const btnDeleteAll = document.querySelector("#btnDeleteAll");
 let items=[];
 
+loadItems();
+
 addEventListener();
 
 function addEventListener() {
