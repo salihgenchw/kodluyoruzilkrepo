@@ -64,9 +64,11 @@ function createItem(text) {
     
 }
 
+
+
 function addNewItem(e) {
     if (input.value === "") {
-      alert("Please Add New Item");
+      alert("Lutfen bir veri ekleyin.");
     }
     
     setItemToLS(input.value);
@@ -81,7 +83,7 @@ function addNewItem(e) {
 function deleteItem(e) {
   
     if (e.target.className === "fas fa-times") {
-      if (confirm("Are You Sure")) {
+      if (confirm("Emin misiniz?")) {
       e.target.parentElement.parentElement.remove();}
 
       deleteItemFromLS(e.target.parentElement.parentElement.textContent);
@@ -91,7 +93,7 @@ function deleteItem(e) {
 }
 
 function deleteAllItems(e){
-    if (confirm("Are yuo Sure?")) {
+    if (confirm("Emin misiniz?")) {
            taskList.innerHTML = "";   
       };
       localStorage.clear();
